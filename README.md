@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm <a href="https://opdev.co.uk" target="blank">
+Oli</a></h1>
+<h3 align="center">A passionate Developer from Cheshire, UK &#127470;&#127475</h3>
 
-<!--
-**oliverpatrick/oliverpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently Working on a Python Supermarket price scraper
 
-Here are some ideas to get you started:
+- 🤝 I’m available for freelancing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Godot && Java
+
+- 💬 Ask me about **Reactjs**
+
+- 📫 How to reach me **opphdev@gmail.com**
+
+<br/>
+<h3 align="center" > Connect with me 🤝 </h3>
+
+Last Edited on: 03/10/2024
