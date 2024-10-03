@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://opdev.co.uk" target="blank">
 Oli</a></h1>
-<h3 align="center">A passionate Developer from Cheshire, UK &#127470;&#127475</h3>
+<h3 align="center">A passionate Developer from Cheshire, UK </h3>
 
 - 🌱 I’m currently Working on a Python Supermarket price scraper
 
