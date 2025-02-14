@@ -10,7 +10,7 @@ Oli</a></h1>
 
 - 💬 Ask me about **Reactjs**
 
-- 📫 How to reach me **opphdev@gmail.com**
+- 📫 How to reach me **oliver@opdev.co.uk**
 
 <br/>
 <h3 align="center" > Connect with me 🤝 </h3>
